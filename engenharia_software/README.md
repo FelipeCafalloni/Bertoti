@@ -1,1 +1,3 @@
-
+<h1>Atividade 1</h1>
+<h2>Texto 1</h2>
+<p>O primeiro texto aparenta ser a introdução de um livro sobre engenharia de software, onde ele questiona a diferença entre os termos "programação" e "engenharia de software", além de citar que a Google tem uma perspectiva diferente das corporações. Ele demonstra também que, diferente das outras áreas da engenharia, como a engenharia cívil ou aeronáutica, que possuem normas rigorosas para o desenvolvimento de seus projetos e resolução de problemas, a engenharia de software, garante muito mais liberdade durante o desenvolvimento, com diferentes perspectivas para a resolução de problemas.Essas diferenças na rigorosidade se dão pois, no geral, erros no desenvolvimento de um software são muito menos prejudiciais em comparação a erros em projetos mais "tangíveis".</p>
