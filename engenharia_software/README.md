@@ -7,3 +7,9 @@
 <p>
   O segundo texto explica alguns questionamentos comuns sobre as diferenças entre programação e engenharia de software, citando novamente a perspectiva da google em relação a tudo isso, mesmo que nada disso tenha uma verdade absoluta, o principal ponto de vista é que a engenharia de software é como se fosse uma programação conectada ao tempo, já que ela não pensa apenas em fazer a aplicação rodar, engenheiros de software se preocupam também com a manutenção do sistema ao longo do tempo, a aplicação de mudanças necessárias e muito mais, no geral engenharia de software é organizar a programação. 
 </p>
+
+<h1>Atividade 2</h1>
+
+<p>
+  Como alguns exemplos de Trade-off no desenvolvimento de software, podemos citar o uso de sistemas operacionais diferentes em um mesmo hardware(conhecido como dual-boot), onde cada um tenha seus prós e contras, por exemplo, um desenvolvedor full stack poderia ter um computador com dual boot de windows e linux, onde ele utiliza o linux para desenvolvimento, enquanto o windows poderia ser mais utilizado em testes e em etapas de design ou front end.
+</p>
