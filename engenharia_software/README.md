@@ -11,5 +11,9 @@
 <h1>Atividade 2</h1>
 
 <p>
-  Como alguns exemplos de Trade-off no desenvolvimento de software, podemos citar o uso de sistemas operacionais diferentes em um mesmo hardware(conhecido como dual-boot), onde cada um tenha seus prós e contras, por exemplo, um desenvolvedor full stack poderia ter um computador com dual boot de windows e linux, onde ele utiliza o linux para desenvolvimento, enquanto o windows poderia ser mais utilizado em testes e em etapas de design ou front end.
+  Como alguns exemplos de Trade-off no desenvolvimento de software, podemos citar o uso de sistemas operacionais diferentes, onde cada um tenha seus prós e contras, por exemplo, um computador com windows e linux, onde ele utiliza o linux para desenvolvimento, já que ele garante mais liberdade e desempenho, enquanto o windows poderia ser mais intuitivo e de compatível.
+</p>
+
+<p>
+  Outro exemplo é o desenvolvimento do zero, conhecido como in house, e o uso de bibliotecas, o desenvolvimento in-house é positivo pois garante controle total sobre o código, sem depender de fornecedores externos e garantindo personalização total do projeto, porém exigindo mais tempo de desenvolvimento e necessidade de manutenções e atualizações manualmente. Do outro lado, utilizar bibliotecas garante uma velocidade altíssima para lançar a ferramenta e manutenção por especialistas, porém, caso você queira fazer uma alteração pessoal, pode ser muito mais complexo em comparação ao in-house, além da dependência de terceiros.
 </p>
