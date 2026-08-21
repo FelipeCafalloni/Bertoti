@@ -15,5 +15,9 @@
 </p>
 
 <p>
+  Um exemplo bem comum de trade off é o uso de diferentes liguagens de programação, como o pthon e o java, o python é mais acessível, fácil de aprender para iniciantes na programação, porém não é o ideal para aplicar em grandes projetos devido à otimização, enquanto o Java é o oposto, pode rodar em qualquer máquina, porém pode ser complexo demais para iniciantes.
+</p>
+
+<p>
   Outro exemplo é o desenvolvimento do zero, conhecido como in house, e o uso de bibliotecas, o desenvolvimento in-house é positivo pois garante controle total sobre o código, sem depender de fornecedores externos e garantindo personalização total do projeto, porém exigindo mais tempo de desenvolvimento e necessidade de manutenções e atualizações manualmente. Do outro lado, utilizar bibliotecas garante uma velocidade altíssima para lançar a ferramenta e manutenção por especialistas, porém, caso você queira fazer uma alteração pessoal, pode ser muito mais complexo em comparação ao in-house, além da dependência de terceiros.
 </p>
